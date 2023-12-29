@@ -1,0 +1,2 @@
+https://rapidapi.com/worldapi/api/open-weather13 (đổi X-RapidAPI-Key)
+https://www.youtube.com/watch?v=psZXU8PTAS8&t=1833s&ab_channel=SameerSaini
